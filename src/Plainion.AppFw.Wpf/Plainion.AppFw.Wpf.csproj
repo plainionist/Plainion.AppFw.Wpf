@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BootstrapperBase.cs" />
+    <Compile Include="Properties\AssemblyDefs.cs" />
     <Compile Include="ViewModels\ProjectLifecycleViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\ProjectService.cs" />
