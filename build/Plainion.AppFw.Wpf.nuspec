@@ -9,7 +9,7 @@
     <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
     <projectUrl>https://github.com/ronin4net/Plainion/wiki/Plainion.AppFw.Wpf</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Provides a simple application framework for writing WPF/Prism based software engineering tools</description>
+    <description>Simple application template for simple WPF/MVVM applications</description>
     <releaseNotes>
       @releaseNotes@
     </releaseNotes>
