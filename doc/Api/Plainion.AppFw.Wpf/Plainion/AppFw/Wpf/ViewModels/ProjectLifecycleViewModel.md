@@ -39,16 +39,16 @@ Progress of async activity
 
 ### System.Windows.Input.ICommand OpenAsyncCommand
 
-### Prism.Interactivity.InteractionRequest.InteractionRequest`1[[Plainion.Prism.Interactivity.InteractionRequest.OpenFileDialogNotification, Plainion.Prism, Version=2.0.0.0, Culture=neutral, PublicKeyToken=11fdbc7b87b9a0de]] OpenFileRequest
+### Prism.Interactivity.InteractionRequest.InteractionRequest`1[[Plainion.Prism.Interactivity.InteractionRequest.OpenFileDialogNotification, Plainion.Prism, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null]] OpenFileRequest
 
 ### Prism.Commands.DelegateCommand SaveCommand
 
 ### Prism.Commands.DelegateCommand SaveAsyncCommand
 
-### Prism.Interactivity.InteractionRequest.InteractionRequest`1[[Plainion.Prism.Interactivity.InteractionRequest.SaveFileDialogNotification, Plainion.Prism, Version=2.0.0.0, Culture=neutral, PublicKeyToken=11fdbc7b87b9a0de]] SaveFileRequest
+### Prism.Interactivity.InteractionRequest.InteractionRequest`1[[Plainion.Prism.Interactivity.InteractionRequest.SaveFileDialogNotification, Plainion.Prism, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null]] SaveFileRequest
 
 ### System.Windows.Input.ICommand ClosingCommand
 
-### Prism.Interactivity.InteractionRequest.InteractionRequest`1[[Plainion.Prism.Interactivity.InteractionRequest.ExitWithoutSaveNotification, Plainion.Prism, Version=2.0.0.0, Culture=neutral, PublicKeyToken=11fdbc7b87b9a0de]] ClosingConfirmationRequest
+### Prism.Interactivity.InteractionRequest.InteractionRequest`1[[Plainion.Prism.Interactivity.InteractionRequest.ExitWithoutSaveNotification, Plainion.Prism, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null]] ClosingConfirmationRequest
 
 ### System.Windows.Input.ICommand CloseCommand

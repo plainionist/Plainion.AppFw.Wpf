@@ -11,7 +11,12 @@
             <prism:InvokeCommandAction Command="{Binding ProjectLifecycleViewModel.ClosingCommand}"/>
         </i:EventTrigger>
         <prism:InteractionRequestTrigger SourceObject="{Binding ProjectLifecycleViewModel.ClosingConfirmationRequest, Mode=OneWay}">
-            <pn:PopupViewAction IsModal="True" CenterOverAssociatedObject="True" ResizeMode="NoResize">
+            <pn:PopupViewAction IsModal="True" CenterOverAssociatedObject="True">
+                <pn:PopupViewAction.WindowStyle>
+                    <Style TargetType="{x:Type Window}">
+                        <Setter Property="ResizeMode" Value="NoResize"/>
+                    </Style>
+                </pn:PopupViewAction.WindowStyle>
                 <pn:ExitWithoutSaveView/>
             </pn:PopupViewAction>
         </prism:InteractionRequestTrigger>

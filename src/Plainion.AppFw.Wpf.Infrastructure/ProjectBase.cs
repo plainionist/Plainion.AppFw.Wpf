@@ -41,7 +41,7 @@ namespace Plainion.AppFw.Wpf.Infrastructure
         /// </summary>
         protected virtual void OnLocationChanged()
         {
-            OnPropertyChanged( "Location" );
+            RaisePropertyChanged( nameof(Location) );
         }
 
         public bool IsDirty
